@@ -90,7 +90,7 @@ This way the script is already created and will be working, to test it, navigate
 ```
 npm start
 //ou
-yarn start //se estiver utilizando o yarn
+yarn start //if you are using yarn
 ```
 
 ## Supported features
